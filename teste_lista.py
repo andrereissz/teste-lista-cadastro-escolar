@@ -13,6 +13,7 @@ def header():
     clearConsole()
     print(f"{' ESCOLA TESTE ':=^60}\n")
 
+
 alunos = []
 alunosid = []
 reset = Fore.RESET+Back.RESET+Style.NORMAL
